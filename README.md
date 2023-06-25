@@ -2,7 +2,7 @@
 Microsoft Azure data engineering project on COVID-19 data from 2 different sources. Loaded the dataset with the help of Azure Data Factory linked services and then performed transformations by using ADF, HDInsight and Databricks. When the data was processed, then it was loaded into Azure SQL database for analysis generating reports. All of these objectives were achieved by using ADF pipelines and event based triggers to automate the workflows.
 
 ## Project Architecture Diagram:
-![project architecture](project architecture.png)
+![project architecture](project_architecture.png)
 
 ## Technologies Used:
 i- Azure Data Factory\
