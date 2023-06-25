@@ -20,7 +20,7 @@ Data is processed and transformed by using 3 different Azure services:\
 i- Azure Data Factory transformations\
 ii- Azure HDInsight\
 iii- Azure Databricks\
-The reason for using these 3 different platforms was that to explore each service and understand its potential. The snapshot of ADF transformations workflow is as follows:\
+The reason for using these 3 different platforms was that to explore each service and understand its potential. The snapshot of ADF transformations workflow is as follows:
 #### Hospitals Admissions Transformation
 ![transform_hospitals_admissions](df_transform_hospitals_admissions.png)
 
